@@ -19,11 +19,42 @@ pip install opencv-python
 pip install mediapipe
 ```
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/136tejas/Real_time_face_counter.git
+```
+
+Go to the project directory
+
+```bash
+  cd Real_time_face_counter
+```
+Run project
+
+```bash
+  For Windows :- pyhton main.py
+  For Linux :- python3 main.py
+```
+## Demo
+
+<h2 align="center">Face Detected</h2>
+<img src=""
+
+
+
+
+
+
+
+
+
+
+
 ## Contribute to the project
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## Demo
-
-<h2 align="center">Face Detected</h2>
