@@ -38,20 +38,14 @@ Run project
   For Windows :- pyhton main.py
   For Linux :- python3 main.py
 ```
+
+
 ## Demo
 
-<h2 align="center">Face Detected</h2>
-<img src=""
-
-
-
-
-
-
-
-
-
-
+<h2>Face Detected</h2>
+<img src="face_detected.png" alt="face detected">
+<h2>No Face Detected</h2>
+<img src="no_face_detected.png" alt="no face detected">
 
 ## Contribute to the project
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
