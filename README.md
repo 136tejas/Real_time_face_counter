@@ -35,7 +35,7 @@ Go to the project directory
 Run project
 
 ```bash
-  For Windows :- pyhton main.py
+  For Windows :- python main.py
   For Linux :- python3 main.py
 ```
 
