@@ -40,12 +40,7 @@ Run project
 ```
 
 
-## Demo
 
-<h2>Face Detected</h2>
-<img src="face_detected.png" alt="face detected">
-<h2>No Face Detected</h2>
-<img src="no_face_detected.png" alt="no face detected">
 
 ## Contribute to the project
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
